@@ -1,0 +1,1 @@
+select numero, nome from banco
